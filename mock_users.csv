@@ -1,0 +1,51 @@
+user_id,past_bookings,preferred_locations,budget_preference,amenities_preference,travel_purpose
+user_0,Cabin|City Center,Dubai|London,High,Gym|Kitchen|Ocean View,Leisure
+user_1,Budget|City Center,Dubai|Sydney,Low,Balcony|Kitchen|Ocean View,Backpacking
+user_2,Resort|Luxury,Tokyo|Sydney,Medium,Fireplace|Pet-Friendly|Kitchen,Business
+user_3,Beachfront|Budget,Bali|Switzerland,High,Spa|Pool|Pet-Friendly,Backpacking
+user_4,Luxury|Beachfront,Tokyo|London,Medium,Pet-Friendly|Pool|Gym,Business
+user_5,Cabin|Boutique Hotel,Switzerland|Colorado,High,Kitchen|Spa|Balcony,Backpacking
+user_6,City Center|Luxury,Switzerland|Sydney,Medium,Gym|Balcony|Ocean View,Business
+user_7,Boutique Hotel|Luxury,Paris|Bali,Low,Breakfast|Gym|WiFi,Family Trip
+user_8,Hostel|Boutique Hotel,Colorado|London,Low,Breakfast|Fireplace|Gym,Adventure
+user_9,Resort|Cabin,Hawaii|Bali,Medium,Kitchen|Gym|Pet-Friendly,Business
+user_10,Boutique Hotel|Resort,Bali|Tokyo,High,WiFi|Ocean View|Breakfast,Romantic
+user_11,Cabin|Budget,Colorado|Tokyo,High,Kitchen|WiFi|Balcony,Romantic
+user_12,Resort|Hostel,Colorado|Dubai,Low,Balcony|Kitchen|Pet-Friendly,Family Trip
+user_13,Budget|Resort,Switzerland|Tokyo,Medium,Spa|WiFi|Pool,Backpacking
+user_14,Luxury|Boutique Hotel,Tokyo|New York,Medium,Balcony|Pool|Kitchen,Backpacking
+user_15,Hostel|Resort,New York|London,High,Breakfast|Fireplace|Pet-Friendly,Backpacking
+user_16,City Center|Luxury,Paris|Bali,Medium,Kitchen|Spa|Fireplace,Business
+user_17,Resort|Beachfront,Hawaii|Colorado,High,WiFi|Breakfast|Balcony,Business
+user_18,Hostel|City Center,Bali|Dubai,Low,Ocean View|Balcony|Spa,Leisure
+user_19,Cabin|City Center,Dubai|Tokyo,Low,Fireplace|WiFi|Pet-Friendly,Adventure
+user_20,Resort|Boutique Hotel,New York|Paris,High,Ocean View|Pet-Friendly|Gym,Business
+user_21,Hostel|Cabin,New York|Bali,Medium,Ocean View|Breakfast|Pet-Friendly,Backpacking
+user_22,Luxury|Resort,Colorado|Paris,Low,Kitchen|WiFi|Ocean View,Leisure
+user_23,Luxury|Cabin,Dubai|Bali,High,Balcony|Pet-Friendly|Kitchen,Business
+user_24,Cabin|Beachfront,Paris|Dubai,Medium,Pet-Friendly|Balcony|Kitchen,Romantic
+user_25,City Center|Beachfront,Sydney|Switzerland,Medium,Pool|Kitchen|Fireplace,Leisure
+user_26,Resort|Boutique Hotel,Dubai|Hawaii,Low,Fireplace|Pool|Pet-Friendly,Leisure
+user_27,Luxury|Budget,Sydney|Bali,Medium,Fireplace|WiFi|Breakfast,Backpacking
+user_28,Resort|Beachfront,Colorado|New York,Low,Spa|Pet-Friendly|WiFi,Backpacking
+user_29,Hostel|Resort,Paris|Colorado,Low,Gym|Ocean View|Pool,Family Trip
+user_30,Resort|Luxury,Paris|Colorado,Low,Kitchen|Pet-Friendly|Fireplace,Business
+user_31,Cabin|Hostel,New York|London,High,Kitchen|WiFi|Spa,Business
+user_32,City Center|Resort,Colorado|Bali,Medium,Pool|Gym|Ocean View,Romantic
+user_33,Beachfront|Luxury,Dubai|Hawaii,Low,Pool|WiFi|Breakfast,Romantic
+user_34,Resort|Beachfront,Paris|Switzerland,High,Gym|Pool|Balcony,Leisure
+user_35,Cabin|Beachfront,Sydney|Hawaii,Low,Breakfast|Pet-Friendly|Gym,Backpacking
+user_36,Beachfront|Budget,London|Sydney,High,Balcony|Pet-Friendly|Kitchen,Adventure
+user_37,Boutique Hotel|Beachfront,London|Sydney,Low,Spa|Breakfast|Gym,Family Trip
+user_38,Luxury|Hostel,Colorado|Tokyo,High,WiFi|Spa|Breakfast,Backpacking
+user_39,Luxury|Budget,Tokyo|London,Low,Kitchen|WiFi|Fireplace,Business
+user_40,Boutique Hotel|City Center,Hawaii|Paris,Low,Pet-Friendly|Kitchen|Breakfast,Adventure
+user_41,Beachfront|City Center,New York|Paris,Medium,Breakfast|Kitchen|Pet-Friendly,Backpacking
+user_42,Beachfront|Resort,Tokyo|Switzerland,High,Breakfast|Spa|Ocean View,Family Trip
+user_43,Hostel|Cabin,Hawaii|Colorado,Medium,Pet-Friendly|Spa|Gym,Romantic
+user_44,Resort|Cabin,Dubai|Tokyo,Medium,Balcony|WiFi|Ocean View,Romantic
+user_45,Budget|City Center,Dubai|Tokyo,High,Spa|Ocean View|Pet-Friendly,Romantic
+user_46,Cabin|Hostel,Colorado|Sydney,Medium,Breakfast|Balcony|Fireplace,Family Trip
+user_47,City Center|Hostel,Tokyo|New York,Low,Ocean View|WiFi|Fireplace,Leisure
+user_48,Luxury|Boutique Hotel,Colorado|Paris,Low,Pet-Friendly|WiFi|Pool,Adventure
+user_49,Budget|Boutique Hotel,Dubai|Tokyo,Low,Pet-Friendly|Fireplace|Spa,Adventure
